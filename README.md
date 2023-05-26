@@ -1,5 +1,7 @@
 # Olá, meu nome é Arthur Monteiro 😁👋
 
+<br>
+
 ✨ No momento, sou apenas um jovem estudante de Ciências da Computação, busco aprender mais sobre programação e tecnologia no geral. Gosto de passar um tempinho fazendo boas páginas online com HTML/CSS (e num futuro próximo também JavaScript), além de praticar um pouco de Python com algumas aplicações. ✨
 
 #
